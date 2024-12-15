@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=3FA5E6&center=true&vCenter=true&random=false&width=435&lines=Hi+👋,+I'm+Manny;A+Software+Engineer;Frontend+Developer;+Machine+Learning+Enthusiast+;Jesus+Steward" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=3FA5E6&center=true&vCenter=true&random=false&width=435&lines=Hi+👋,+I'm+Manny;A+Software+Engineer;Frontend+Developer;ML+Enthusiast;Jesus+Steward" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
