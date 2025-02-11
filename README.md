@@ -14,7 +14,6 @@ Software Developer passionate about building scalable web applications. I specia
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelAjibokun&show_icons=true&theme=tokyonight" alt="Emmanuel's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelAjibokun&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Top Languages
