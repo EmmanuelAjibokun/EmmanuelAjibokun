@@ -18,7 +18,7 @@ Software Developer passionate about building scalable web applications. I specia
 
 ## 🏆 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelAjibokun&layout=compact&theme=tokyonight&exclude_langs=Lasso,JupyterNotebook" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelAjibokun&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,Lasso,html" alt="Top Languages" />
 </div>
 
 ## 🤝 Connect with me
