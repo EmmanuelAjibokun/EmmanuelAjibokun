@@ -6,10 +6,11 @@
 Software Developer passionate about building scalable web applications. I specialize in fullstack development leveraging on the MERN stack to build applications that prioritize performance, security and scalability.
 
 ### 🛠️ Tech Stack
-- **Frontend:** React.js, Next.js, Typescript, Python, HTML5, CSS3, TailwindCSS
-- **Databases:** MongoDB
+- **Frontend:** React.js, Next.js, HTML5, CSS3, TailwindCSS
+- **Backend:** Nodejs, Typescript
+- **Databases:** MongoDB, PostgreSQl
 - **Tools:** Git, VS Code, Jupiter Notebook, Appwrite, Shadcn, 
-- **Testing:** Jest, React Testing Library
+- **Testing:** Vitest, React Testing Library, Jest
 
 ## 📊 GitHub Stats
 <div align="center">
