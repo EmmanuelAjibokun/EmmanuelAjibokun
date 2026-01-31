@@ -10,7 +10,7 @@ Software Developer passionate about building scalable web applications. I specia
 - **Backend:** Nodejs, Typescript
 - **Databases:** MongoDB, PostgreSQl
 - **Tools:** Git, VS Code, Jupiter Notebook, Appwrite, Shadcn, 
-- **Testing:** Vitest, React Testing Library, Jest
+- **Testing:** Vitest, Jest, E2E testing with Playwright
 
 ## 📊 GitHub Stats
 <div align="center">
