@@ -3,7 +3,7 @@
 </div>
 
 ## 🚀 About Me
-Software Developer passionate about building scalable web applications. I specialize in frontend development with a focus on React, leveraging Next.js as a rendering framework to build robust, fullstack applications that prioritize performance and scalability.
+Software Developer passionate about building scalable web applications. I specialize in fullstack development leveraging on the MERN stack to build applications that prioritize performance, security and scalability.
 
 ### 🛠️ Tech Stack
 - **Frontend:** React.js, Next.js, Typescript, Python, HTML5, CSS3, TailwindCSS
